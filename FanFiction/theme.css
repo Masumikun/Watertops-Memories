@@ -1,0 +1,160 @@
+/* ==================== Root ==================== */
+
+/* ==================== fonts faces ==================== */
+@font-face{
+	font-family: "DS";
+	src: url("DS-DIGIT.TTF");
+}
+
+@font-face{
+	font-family: "RG";
+	src: url("Retro_Gaming.ttf");
+}
+
+@font-face{
+	font-family: "DT";
+	src: url("deltarune.ttf");
+}
+
+@font-face{
+	font-family: "UT";
+	src: url("MonsterFriendFore.otf");
+}
+
+@font-face{
+	font-family: "AG";
+	src: url("ASROG GENOStrial.otf");
+}
+
+/* ==================== headings ==================== */
+
+.title{
+	font-family: AG;
+	font-size: 40px;
+	text-align: center;
+	outline-color: rgba(153, 50, 204, 1);
+	color: rgba(153, 50, 204, 1);
+}
+
+h1{
+	font-family: DS;
+	font-size: 30px;
+	text-align: ;
+	outline-color: rgba(0, 191, 255, 1);
+	color: rgba(0, 191, 255, 1);
+}
+
+h2{
+	font-family: DS;
+	font-size: 25px;
+	text-align: center;
+	outline-color: rgba(173, 216, 230, 1);
+	color: rgba(173, 216, 230, 1);
+}
+
+h3{
+	font-family: DS;
+	font-size: 20px;
+	text-align: center;
+	outline-color: rgba(255, 250, 205, 1);
+	color: rgba(255, 250, 205, 1);
+}
+
+h4{
+	font-family: Ds;
+	font-size: 15px;
+	text-align: center;
+	outline-color: rgba(0, 250, 154, 1);
+	color: rgba(0, 250, 154, 1);
+}
+
+h5{
+	font-family: DS;
+	font-size: 10px;
+	text-align: center;
+	outline-color: rgba(205, 133, 63, 1);
+	color: rgba(205, 133, 63, 1);
+}
+
+h6{
+	font-family: DS;
+	font-size: 5px;
+	text-align: center;
+	outline-color: rgba(186, 85, 211, 1);
+	color: rgba(186, 85, 211, 1);
+}
+
+/* ==================== Markdown ==================== */
+b{
+	color: rgba(255, 140, 0, 1);
+}
+
+i{
+	color: rgba(30, 144, 255, 1);
+}
+
+s{
+	color: rgb(255, 0, 0, 0.5);
+}
+
+blockquote{
+	color: rgb(54, 139, 193);
+	background-clip: rgb(0, 0, 0);
+	border-color: rgb(54, 139, 193);
+	border-left-color: rgb(54, 139, 193);
+}
+
+/* ==================== souls ==================== */
+.Patience{
+	color: rgb(0, 255, 255);
+}
+
+.Bravery{
+	color: rgb(255, 128, 0);
+}
+
+.Integrity{
+	color: rgb(0, 0, 255);
+}
+
+.Perseverance{
+	color: rgb(128, 0, 255);
+}
+
+.Kindness{
+	color: rgb(0, 255, 0);
+}
+
+
+.Justice{
+	color: rgb(255, 255, 0);
+}
+
+.Determination{
+	color: rgb(255, 0, 0)
+}
+
+.Hate{
+	color: rgb(0, 0, 0)
+}
+
+.Void{
+	color: rgb(100, 100, 100);
+}
+
+.Love{
+	color: rgb(255, 255, 255);
+}
+
+.Mercy{
+	color: rgb(255, 218, 0);
+}
+
+/* ==================== mark ==================== */
+.main{
+	background-color: rgb(255, 255, 0);
+}
+
+.grey{
+	background-color: rgb(192,192,192);
+}
