@@ -14,3 +14,10 @@ Markdown Fanfiction
 + ➕Aplicar `<br>` em markdown
 + ✅Idéias e sugestões de colaboradores são bem vindo
 + ⚠️História em desenvolvimento constante
+
+Markdown Geral
++ ➕Alteração
++ ➕Aplicação de links no textos na FanFiction
++ ➕Upload de outra história
+
+
