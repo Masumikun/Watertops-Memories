@@ -6,7 +6,7 @@ tags:
 status: ✅ Completo
 ---
 
-[[NeworldTale ep1]]
+[NeworldTale ep1](NeworldTale ep2.md)
 
 # Vazio Do Cego
 Ao cair nas *flores azuis*, sentiu suas propriedades <span style="color:rgb(0, 255, 0)">curativas</span> atuando sobre sua alma. Uma nova criança havia chegado - uma *<span style="color: rgb(192,192,192)">Void</span>* cujo plano era erradicar os monstros da superfície e restaurar o domínio humano.
@@ -25,7 +25,7 @@ Sans ➣ ❝Por que nos observa?❞ *Pergunta, desconfiado*<br>
 ??? ➣ ❝Apenas registro as ações de cada um❞ *Responde com confiança*
 
 Apesar do incômodo, **Sans** aceitou. Com o tempo, humanos que morriam e caíam no novo subsolo - agora habitado por monstros - transformaram o local em caos por ação de almas <span style="color: rgb(192,192,192)">Void</span>. O ar encheu-se de poeira até que o robô foi derrotado.<br>
-[[Mecanismo da Alma|Soul Configuration]]
+[Soul Configuration](Souls.md)
 
 ---
 ## Novos Trilhos
@@ -166,4 +166,4 @@ Quando poeira do ambiente se baixou o mundo estava se apagando por todo e **limb
 
 <center>Continue...</center>
 
-[[NeworldTale ep3]]
+[NeworldTale ep3](NeworldTale ep3.md)

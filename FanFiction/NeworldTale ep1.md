@@ -103,4 +103,5 @@ A jornada inicia-se com a queda entre flores azuis. Uma tela **holográfica** pe
 </center>
 O mundo estava em transição. A criança caída era a origem de um novo caminho em nossas ligações, mesmo em tempos de paz.
 
-[[NeworldTale ep2]]
+[➡️ Próximo episódio](https://github.com/Masumikun/Watertops-Memories/blob/main/FanFiction%2FNeworldTale%20ep2.md)
+
