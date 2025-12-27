@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 date created: Saturday, 20th ✦ Dec┆2025 ➣ 15▫27▫41
 date modified: Saturday, 20th ✦ Dec┆2025 ➣ 15▫27▫41
 tags:
@@ -6,7 +7,7 @@ tags:
 status: 📄 Rascunho
 ---
 
-[NeworldTale ep2](NeworldTale ep2.md)
+[⬅️ Volta Episódio](https://github.com/Masumikun/Watertops-Memories/blob/main/FanFiction%2FNeworldTale%20ep2.md)
 
 # Sombra Do Espelho
 - 📜 ***Narrador***
@@ -113,4 +114,4 @@ Depois de passar por **Toriel**, **Undyne** travou uma luta, mas eles correram e
 - Terra dos humanos
 
 
-[NeworldTale ep4](NeworldTale ep4.md)
+[➡️ Próximo Episódio](https://github.com/Masumikun/Watertops-Memories/blob/main/FanFiction%2FNeworldTale%20ep4.md)

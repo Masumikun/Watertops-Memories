@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 date created: Saturday, 20th ✦ Dec┆2025 ➣ 15▫29▫18
 date modified: Saturday, 20th ✦ Dec┆2025 ➣ 15▫29▫18
 tags:
@@ -7,7 +8,7 @@ status:
   - ⚙️ Desenvolvimento
 ---
 
-[[NeworldTale ep3]]
+[⬅️ Volta Episódio](https://github.com/Masumikun/Watertops-Memories/blob/main/FanFiction%2FNeworldTale%20ep3.md)
 
 # Perdas & Guerras
 ## Medo Agoniante

@@ -1,6 +1,11 @@
 ---
+dg-publish: true
 date created: Tuesday, 23rd ✦ Dec┆2025 ➣ 20▫30▫05
 date modified: Thursday, 25th ✦ Dec┆2025 ➣ 23▫20▫00
+status:
+  - 📄 Rascunho
+tags:
+  - Writing
 ---
 
 # Raças

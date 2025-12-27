@@ -1,9 +1,13 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 # Watertops-Memories
 Local para publicar que escrevo, que planejo no meu dia a dia de convivência de hobby e talvez um emprego de vida
 
 ---
-Progresso de FacFic em HTML v1
-
+Progresso de FanFic em HTML v1
 + ➕Adicionar Arquivos de código
 + ➕Modificações no arquivos de Origem
 + ➕Etapas de Plugins/Extensões
@@ -20,4 +24,15 @@ Markdown Geral
 + ➕Aplicação de links no textos na FanFiction
 + ➕Upload de outra história
 
+Mudanças e Alterações Gerias
++ ➕Aplicação de links onde faltou
++ ➕Mudanças visuais no obsidian descobertas
++ ➖Removido syntex de obsidian
++ ⚙️aplicando syntax de Github
++ ✅Nova história pode ser legível
++ ➕Novo personagem chegando
++ ⚠️Desenvolvimento da história em continuação
++ ⏸️NeworldTale recebe uma pausa temporária
++ 🔎Foco em nova história sendo escrita
 
+*Versão do Projeto* ➣ 10.5alfa

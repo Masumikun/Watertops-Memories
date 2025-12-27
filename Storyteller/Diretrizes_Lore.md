@@ -1,6 +1,11 @@
 ---
+dg-publish: true
 date created: Friday, 26th ✦ Dec┆2025 ➣ 01▫19▫07
 date modified: Friday, 26th ✦ Dec┆2025 ➣ 01▫23▫04
+tags:
+  - Writing
+status:
+  - 📄 Rascunho
 ---
 
 # Diretrizes_Lore
