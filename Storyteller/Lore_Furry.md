@@ -1,7 +1,6 @@
 ---
-dg-publish: true
 date created: Saturday, 13th ✦ Dec┆2025 ➣ 23▫46▫18
-date modified: Friday, 26th ✦ Dec┆2025 ➣ 13▫28▫25
+date modified: Monday, 29th ✦ Dec┆2025 ➣ 14▫15▫13
 status:
   - ⚙️ Desenvolvimento
 tags:
@@ -13,13 +12,13 @@ tags:
 ---
 
 # Lore_Furry
-[⚠️ Regras](Diretrizes_Lore.md)
+[[Diretrizes_Lore]]
 
 <center>
 ༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
 </center>
 
-❝O mundo era totalmente abandonando sobre situação que parecia sem vida, mas <mark style="background: #FFF3A3A6;"><span style="font-weight:bold; color:rgb(0, 0, 0);">desconhecido</span></mark> estava apenas brincando com *verdade escrita* em *livros* com informações faltando, parecia que havia informações sobre uma **bomba** que **explodiu**, aqueles que ficaram no banque foram mortos por uma criatura que surgiu daquela **poluição** de **radiação**, só soube que era feita da matéria que foi despida pela próprio planeta por um tempo, seu ar natural, morreu por afogamento, parecia um *peixei querendo pula na água*.❞
+❝O mundo era totalmente abandonando sobre situação que parecia sem vida, mas <mark style="background: #FFF3A3A6;"><span style="font-weight:bold; color:rgb(0, 0, 0);">desconhecido</span></mark> estava apenas brincando com *verdade escrita* em *livros* com informações faltando, parecia que havia informações sobre uma **bomba** que **explodiu**, aqueles que ficaram no banker foram mortos por uma o que surgiu daquela **poluição** de **radiação**, só soube que era feita da matéria que foi despida pela próprio planeta por um tempo, seu ar natural, morreu por afogamento, parecia um *peixei querendo pula na água*.❞
 
 ❝Estranho que depois da era de **Hectrr** o mundo estava totalmente limpo de ações daquela criatura estranha se passaram forma que natureza desenvolveu por forma diferente fazendo que pode-se reaji forma melhorada do que sua natureza abraçadora, acabaram as **formulando** para uma *versão* mais **mística**❞
 
@@ -82,22 +81,29 @@ tags:
 ༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
 </center>
 
-❝Zona **Itami no nai chi** ➣ Banque de **sangue** e papéis onde vida de **sobrevivência** decaiu pela *humanidade*, deixado de lado pela morte por uma criatura levou os corpos com sua própria história, parece que ambiente em volta ficou desenvolvido por **sangue** e **corrupção** **biológicas** de forma nada **naturalmente** certa❞
+❝Zona **Itami no nai chi** ➣ banker de **sangue** e papéis onde vida de **sobrevivência** decaiu pela *humanidade*, deixado de lado pela morte por uma criatura levou os corpos com sua própria história, parece que ambiente em volta ficou desenvolvido por **sangue** e **corrupção** **biológicas** de forma nada **naturalmente** certa❞
 
-- ["] ***Humanidade*** ➣ Apenas um **termo** *relevando* para **raça** viveu naquele **banque** e deixou as **informações**
+- ["] ***Humanidade*** ➣ Apenas um **termo** *relevando* para **raça** viveu naquele **banker** e deixou as **informações**
 
 ❝**Avalis** que exploravam com seus **equipamentos** *avançados*, não foram afetados pelo **ambiente**, que procuravam com ***forte desejo*** de achar aquilo que era preciso para melhorar *vivência*, sobre tudo havia duas divisões explorando pontos diferentes, enquanto divisão coletava qualquer registro deixado pela *raça*, outra divisão procurava explorar o **ambiente**❞
 
-❝
+❝Quando um registro foi divulgado somente entre duas divisões dos Avalis e a divisão do Kitsune, que ficou uma análise que chegou ao Líder das divisões
 
-<center>
-༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
-</center>
+- [b] 📜 Anotações dos Avalis
+	> O **registro** estava muito *fragmentado*, que deixou a nossa leitura bem chata, decidir deixa o lider explica por nós para Sr. Kitsune se estiver em contato com a gente.
+	> 
+	> — Olá Sr. Kitsune, eu sou **Yumoto Akira**, eu sou lider da **divisão ➣ Seirei no Ketsugo**, estou com líder da **divisão ➣ Nozomi no Michi** só que diferente de mim ele está ocupado com registros e análises deixadas pela raça que está estamos estudando, quero avisar que nos registros dizem isso:
+	> 
+	> > ⟬Era Hectrr *Texto distorcido*, encontramos um banker vamos finalizar por aqui *Texto distorcido*⟭
+	> >
+	> > ⟬Lançaram a bomba massiva, por que *Nakatomi* *Texto distorcido*, estou morrendo...⟭
+	> >
+	> > ⟬Que nosso deus nos abrace no céu *texto distorcido*, dizem que ele se chama de ***Aeraf***, *Texto distorcido*⟭
 
-❝*Ketsura*┇**Ambiente** ➣ Sobre um oceano cristalino estava vida de sua aparência chamativa que faz parece que poluição apenas uma coisa que deveria se passado, por isso havia uma **organização** chamada **Danpen ka sa re ta Yume** que era Furrys dedicados para limpeza, além dos viventes que já fazem limpezas cotidiana❞
+O **Avali** esperou o **raposo** responder, mas pelo imprevisto deles o lidere **Cabra** acabou os chamar para seu ponto de área de **julgamento**❞
 
 <center>
 ༺━━━━༺━━━━༺ 🎴 ༻━━━━༻━━━━༻
 </center>
 
-[Glossário](Glossário.md)
+[[Glossário]]

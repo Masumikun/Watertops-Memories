@@ -1,6 +1,6 @@
 ---
-date created: Friday, 26th ✦ Dec┆2025 ➣ 19▫21▫33
-date modified: Friday, 26th ✦ Dec┆2025 ➣ 19▫26▫35
+date created: Saturday, 27th ✦ Dec┆2025 ➣ 02▫28▫46
+date modified: Saturday, 27th ✦ Dec┆2025 ➣ 03▫46▫57
 tags:
   - Characters
   - Writing

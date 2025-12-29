@@ -1,11 +1,8 @@
 ---
-dg-publish: true
 date created: Tuesday, 23rd ✦ Dec┆2025 ➣ 20▫30▫05
-date modified: Thursday, 25th ✦ Dec┆2025 ➣ 23▫20▫00
-status:
-  - 📄 Rascunho
+date modified: Sunday, 28th ✦ Dec┆2025 ➣ 02▫17▫08
 tags:
-  - Writing
+  - RaçasFantásticas
 ---
 
 # Raças
