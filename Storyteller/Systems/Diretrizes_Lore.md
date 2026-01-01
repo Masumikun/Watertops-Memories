@@ -1,6 +1,8 @@
 ---
 date created: Friday, 26th ✦ Dec┆2025 ➣ 01▫19▫07
-date modified: Monday, 29th ✦ Dec┆2025 ➣ 14▫16▫34
+date modified: Thursday, 1st ✦ Jan┆2026 ➣ 14▫37▫58
+tags:
+  - Writing
 ---
 
 # Diretrizes_Lore
@@ -11,5 +13,9 @@ date modified: Monday, 29th ✦ Dec┆2025 ➣ 14▫16▫34
 	- **Função** ➣ IA sugere algo que possa ser <span style="color:rgb(0, 255, 0)">válido</span>, <span style="color:rgb(255, 255, 0)">checado</span>, <span style="color:rgb(0, 0, 254)">arquivado</span> ou <span style="color:rgb(255, 0, 0)">ignorado</span>
 	- **Função** ➣ Leitor sugere algo que possa ser <span style="color:rgb(0, 255, 0)">válido</span>, <span style="color:rgb(255, 255, 0)">checado</span>, <span style="color:rgb(0, 0, 254)">arquivado</span> ou <span style="color:rgb(255, 0, 0)">ignorado</span>
 
+
 - Colaboradores 
-	- 
+	- **Função** ➣ Leitores que ajudam em termos de **análise** e **feedback**
+		- Que forem ***bem*** *analisados* e ditos serão: ✅Aprovados
+		- Que forem ***+/-*** *analisados* e ditos serão: 🔎Checagem
+		- Que forem ***mal*** *analisados* e ditos serão: ❌Reprovados

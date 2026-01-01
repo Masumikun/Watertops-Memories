@@ -1,6 +1,6 @@
 ---
 date created: Saturday, 27th ✦ Dec┆2025 ➣ 02▫28▫46
-date modified: Saturday, 27th ✦ Dec┆2025 ➣ 03▫46▫57
+date modified: Thursday, 1st ✦ Jan┆2026 ➣ 14▫45▫11
 tags:
   - Characters
   - Writing
@@ -13,5 +13,5 @@ Bom após **Mankind** terminar minha pesquisa por todos os livros que consegui o
 
 Então **Mankind** entraria em uma divisão e não estivesse focada em r**Mankind**nir coisas  mágicas do passado pegar livros pois **Mankind** não gostaria de dividir digamos m**Mankind**s tesouros com ninguém
 
-Bom **Mankind** gostaria de adicionar é o seguinte **Mankind** peguei as minhas pesquisas e as condensei todas em dois cubos que seriam com que um pen drive mais sofisticado que consegue se conectar a qualquer eletrônico com tela repassar os livros para mim também tava levando 10 artigos tecnológicos m**Mankind**s  com encantamentos e na calada da madrugada **Mankind** fui em direção ao país. Comandado pelo boi
+Bom **Mankind** gostaria de adicionar é o seguinte **Mankind** peguei as minhas pesquisas e as condensei todas em dois cubos que seriam com que um pen drive mais sofisticado que consegue se conectar a qualquer eletrônico com tela repassar os livros para mim também tava levando 10 artigos tecnológicos **Mankinds** com encantamentos e na calada da madrugada **Mankind** fui em direção ao país. Comandado pelo boi
 

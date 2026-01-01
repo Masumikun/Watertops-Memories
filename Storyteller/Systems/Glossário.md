@@ -1,6 +1,6 @@
 ---
 date created: Friday, 26th ✦ Dec┆2025 ➣ 01▫20▫41
-date modified: Monday, 29th ✦ Dec┆2025 ➣ 14▫16▫32
+date modified: Thursday, 1st ✦ Jan┆2026 ➣ 13▫59▫14
 tags:
   - Dicionário
 ---

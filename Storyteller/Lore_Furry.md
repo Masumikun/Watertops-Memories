@@ -1,6 +1,6 @@
 ---
 date created: Saturday, 13th ✦ Dec┆2025 ➣ 23▫46▫18
-date modified: Monday, 29th ✦ Dec┆2025 ➣ 14▫15▫13
+date modified: Thursday, 1st ✦ Jan┆2026 ➣ 14▫45▫15
 status:
   - ⚙️ Desenvolvimento
 tags:
@@ -18,9 +18,9 @@ tags:
 ༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
 </center>
 
-❝O mundo era totalmente abandonando sobre situação que parecia sem vida, mas <mark style="background: #FFF3A3A6;"><span style="font-weight:bold; color:rgb(0, 0, 0);">desconhecido</span></mark> estava apenas brincando com *verdade escrita* em *livros* com informações faltando, parecia que havia informações sobre uma **bomba** que **explodiu**, aqueles que ficaram no banker foram mortos por uma o que surgiu daquela **poluição** de **radiação**, só soube que era feita da matéria que foi despida pela próprio planeta por um tempo, seu ar natural, morreu por afogamento, parecia um *peixei querendo pula na água*.❞
+❝O mundo era totalmente abandonando sobre situação que parecia sem vida, mas <mark style="background: #FFF3A3A6;"><span style="font-weight:bold; color:rgb(0, 0, 0);">desconhecido</span></mark> estava apenas brincando com *verdade escrita* em *livros* com informações faltando, parecia que havia informações sobre uma **bomba** que **explodiu**, aqueles que ficaram no bunker foram mortos por uma o que surgiu daquela **poluição** de **radiação**, só soube que era feita da matéria que foi despida pela próprio planeta por um tempo, seu ar natural, morreu por afogamento, parecia um *peixei querendo pula na água*.❞
 
-❝Estranho que depois da era de **Hectrr** o mundo estava totalmente limpo de ações daquela criatura estranha se passaram forma que natureza desenvolveu por forma diferente fazendo que pode-se reaji forma melhorada do que sua natureza abraçadora, acabaram as **formulando** para uma *versão* mais **mística**❞
+❝Estranho que depois da era de **[[Hectrr]]** o mundo estava totalmente limpo de ações daquela criatura estranha se passaram forma que natureza desenvolveu por forma diferente fazendo que pode-se reaji forma melhorada do que sua natureza abraçadora, acabaram as **formulando** para uma *versão* mais **mística**❞
 
 ❝No início da era **Jaxson** soube que equipe de **Avalis** visitou o ***planeta*** e parece que descobriram 14 **relíquias** que foi <span style="color:rgb(0, 255, 255)">descoberto</span> pelo dna <span style="color:rgb(0, 255, 0)">confirmado</span> pelo *dna* **escaneando**, que eram da criatura que morreu, seu corpo se virava poeira de área ao entrar em contato qualquer ar que não era sua de origem, como na *nave* não tinha as apenas as 14 **relíquias** ficaram ali mesmo.❞
 
@@ -81,9 +81,9 @@ tags:
 ༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
 </center>
 
-❝Zona **Itami no nai chi** ➣ banker de **sangue** e papéis onde vida de **sobrevivência** decaiu pela *humanidade*, deixado de lado pela morte por uma criatura levou os corpos com sua própria história, parece que ambiente em volta ficou desenvolvido por **sangue** e **corrupção** **biológicas** de forma nada **naturalmente** certa❞
+❝Zona **Itami no nai chi** ➣ bunker de **sangue** e papéis onde vida de **sobrevivência** decaiu pela *humanidade*, deixado de lado pela morte por uma criatura levou os corpos com sua própria história, parece que ambiente em volta ficou desenvolvido por **sangue** e **corrupção** **biológicas** de forma nada **naturalmente** certa❞
 
-- ["] ***Humanidade*** ➣ Apenas um **termo** *relevando* para **raça** viveu naquele **banker** e deixou as **informações**
+- ["] ***Humanidade*** ➣ Apenas um **termo** *relevando* para **raça** viveu naquele **bunker** e deixou as **informações**
 
 ❝**Avalis** que exploravam com seus **equipamentos** *avançados*, não foram afetados pelo **ambiente**, que procuravam com ***forte desejo*** de achar aquilo que era preciso para melhorar *vivência*, sobre tudo havia duas divisões explorando pontos diferentes, enquanto divisão coletava qualquer registro deixado pela *raça*, outra divisão procurava explorar o **ambiente**❞
 
@@ -94,13 +94,87 @@ tags:
 	> 
 	> — Olá Sr. Kitsune, eu sou **Yumoto Akira**, eu sou lider da **divisão ➣ Seirei no Ketsugo**, estou com líder da **divisão ➣ Nozomi no Michi** só que diferente de mim ele está ocupado com registros e análises deixadas pela raça que está estamos estudando, quero avisar que nos registros dizem isso:
 	> 
-	> > ⟬Era Hectrr *Texto distorcido*, encontramos um banker vamos finalizar por aqui *Texto distorcido*⟭
+	> > ⟬Era Hectrr *Texto distorcido*, encontramos um bunker vamos finalizar por aqui *Texto distorcido*⟭
 	> >
 	> > ⟬Lançaram a bomba massiva, por que *Nakatomi* *Texto distorcido*, estou morrendo...⟭
 	> >
 	> > ⟬Que nosso deus nos abrace no céu *texto distorcido*, dizem que ele se chama de ***Aeraf***, *Texto distorcido*⟭
 
 O **Avali** esperou o **raposo** responder, mas pelo imprevisto deles o lidere **Cabra** acabou os chamar para seu ponto de área de **julgamento**❞
+
+
+<center>
+༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
+</center>
+
+❝*Ketsura*┇**Ambiente** ➣ Sobre um oceano cristalino estava vida de sua aparência chamativa que faz parece que poluição apenas uma coisa que deveria se passado, por isso havia uma **organização** chamada **Danpen ka sa re ta Yume** que era Furrys dedicados para limpeza, além dos viventes que já fazem limpezas cotidiana❞
+
+❝*Ketsura*┇**Ambiente** ➣ No local, mais frio estava um **Caprino** que com rosto cheio de **preocupação** na informações, procurando algum resultado sobre que divulgado para um **desconhecido** era uma grande estrutura de local onde *julgamento* por um juíz do acerto estava em seu *trono*, enquanto lia que estava escrito tentando entender tudo❞
+
+❝Os *dois lideres* se entre olhavam esperando o **Caprino** assimilar tudo de uma vez que houve para vivência deles, quando tudo para pode-se explicar de forma pelo menos eficiente para o **Caprino**❞
+
+✦ Yumoto Akira dizia com tom de medo para o Caprino
+> — Senhor, nós precisamos na ajuda visionária para nossas divisões
+
+✦ Caprino dizia em leve fúria
+> — Ajuda? Vocês estão loucos por querem serem usado por alguém fingindo se místico
+
+✦ Yumoto antes de dizer algo é interrompido por Nagase Haruichi
+> — Senhor, nescessário a visão de alguém desconhecido, deste primeiro plano de divulgação Sr. Raposo, já estávamos compartilhando coisas com ele
+
+✦ Caprino sussurra algo revelador, mas apenas ele escuta
+> ~~ Fui lerdo demais para aquela raposa
+
+❝Enquanto o **julgamento** estava rolando, o lider **Lobo** entrar com lider **Tigre** na estrutura, ambos com rosto satisfeitos que iriam dizer para os *Avalis*.❞
+
+✦ Lider Lobo diz com confiança 
+> — Esse visionário pode se alguém sozinho e resolvedor de caos, mas que ele fez foi além até usou sangue para indentificar o que seria a criatura
+
+✦ Tigre afirma com superioridade
+> — Você sabe que não pode punir uma equipe por causa de um estranho que não fará diferença depois?
+
+✦ Antes que Caprino pode-se dizer algo uma transmissão o interrompe
+> — Olá, eu sou o Sr. Kitsune, estou para dizer que não estou com idéias para me beneficiar dos Avalis, apenas quero descobrir o desconhecido que as relíquias trazem ao mundo
+
+✦ Lobo fala confuso
+> — Então por que ele não descobriu ainda?
+
+✦ Yumoto diz com clareza
+> — Senhor, a gente tem que leva mais evidências, ele não concluiu o Projeto *ACR* (Análise de Relíquias da Criatura)
+
+✦ Tigre diz meio irritado
+> — Quero mais rápido! Não importa enquanto isso não beneficiar o povo e estruturas, ele não faz importância mundial
+
+❝Todos sobre o silêncio mutuo enquanto vejam o Tigre se retirar para cuida de partes do seu país, sobre isso durante o tempo de silêncio, o **Sr. Raposo** dizia:
+> — Estressado ein...
+
+Quando sua fala acabou os Avalis olhando para sua versão holográfica que fica escondendo sua verdadeira face❞
+
+✦ Lobo diz querendo mudar o ambiente
+> Ele assim mesmo, lida com uma nação inteira de seres com puro **desenvolvimento** e isso afeta seu estado de pensar na *política* em vez da **mudança** de *tecnologia*.
+
+✦ Raposo dizia com puro instinto
+> — Meu instinto diz que ele será um problema na zona política bem futuro
+
+❝Enquanto o cabra viu o *raposo* dizer, os **Avalis** e o **Caprino** estava sua zona de ***decisão*** que o **Caprino** queria era algo que o **Raposo** poderia já te feito, mas o **Caprino** negou as *divulgações* depois das *evidências* de conversar que aconteceu, mas **Avalis** ficaram triste com decisão havendo uma separação de duas **divisões** com **divisão** do Raposo❞
+
+<center>
+༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
+</center>
+
+❝Quando era **Rube** estava lidando com conflitos, raposo que não poderia conversar com <span style="color:rgb(255, 0, 0)">Avalis</span>, teria que simplesmente concluir aquilo que já tinha sozinho, enquanto trabalhava, tudo foi com forma de **empatia** para ajudar os Avalis de forma escondida, <span style="color:rgb(255, 255, 0)">sozinho</span> na sua divisão, recebeu <span style="color:rgb(255, 128, 0)">convites</span> de <span style="color:rgb(0, 0, 255)">pedidos</span> para entrar na sua divisão❞
+
+❝Os <span style="color:rgb(0, 0, 255)">pedidos</span> forma aceitos, tendo <span style="color:rgb(0, 255, 0)">recrutamento</span> que reforçam sua divisão, mas o raposo sempre se mantém muito <span style="color:rgb(100, 255, 255)">místico</span> e sozinho no seu canto enquanto o grupo estava para ajudá-lo.❞
+
+<center>
+༺━━━━༺━━━━༺ 💠 ༻━━━━༻━━━━༻
+</center>
+
+❝**Ambiente** ➣ Uma ponte com corrimão de termo holográfico, sua visão tecnológica com trechos de fusões de inovação tecnológica não era poucas, usada vária vezes pela divisão Avali que direto precisa se comunicar com Sr. Raposo, sempre para ir a um ponto você digita o seu ponto 50% dela será um caminho até um espelho do local com sua outra parte de 50% no local❞
+
+<center>
+༺━━━━༺━━━━༺ 💬 ༻━━━━༻━━━━༻
+</center>
 
 <center>
 ༺━━━━༺━━━━༺ 🎴 ༻━━━━༻━━━━༻

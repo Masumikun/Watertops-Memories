@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, 23rd ✦ Dec┆2025 ➣ 20▫30▫05
-date modified: Sunday, 28th ✦ Dec┆2025 ➣ 02▫17▫08
+date modified: Thursday, 1st ✦ Jan┆2026 ➣ 14▫38▫02
 tags:
   - RaçasFantásticas
 ---
@@ -20,3 +20,4 @@ tags:
 11. Onças
 12. Tigres
 13. Leões
+14. Avali
