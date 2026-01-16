@@ -34,5 +34,6 @@ Mudanças e Alterações Gerias
 + ⚠️Desenvolvimento da história em continuação
 + ⏸️NeworldTale recebe uma pausa temporária
 + 🔎Foco em nova história sendo escrita
++ 📜Organização de arquivos e expansão
 
-*Versão do Projeto* ➣ 10.5alfa
+*Versão do Projeto* ➣ 11alfa
