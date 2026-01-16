@@ -36,4 +36,9 @@ Mudanças e Alterações Gerias
 + 🔎Foco em nova história sendo escrita
 + 📜Organização de arquivos e expansão
 
-*Versão do Projeto* ➣ 11alfa
+Novas atualizações e Mudanças nos arquivos
++ ➕Organização dos arquivos
++ ➕Mudanças e Modificações
++ ➕Atualização de para minha lore nova
++ ➡️Logo será nomeada
+

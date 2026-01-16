@@ -8,8 +8,8 @@ status:
 ---
 
 # NeworldTale
-> De Fã para Fã
-> Criado por: Masumi Satoshi
+> De Fã para Fã<br>
+> Criado por: Masumi Satoshi<br>
 > Criador de Undertale: Toby Fox
 
 > ⚠️ Aviso

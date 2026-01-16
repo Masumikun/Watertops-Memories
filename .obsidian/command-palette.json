@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "editor:save-file",
+    "app:reload",
+    "app:delete-file",
+    "editor:open-search-replace",
+    "workspace:toggle-pin",
+    "workspace:new-tab"
+  ]
+}

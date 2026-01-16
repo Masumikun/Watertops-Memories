@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"0. Capture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"2. Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 917248
+      }
+    },
+    {
+      "query": "path:\"4. Archive\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"5. Others\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"6. Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "path:\"7. Writing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"8. IdeiasCreated\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "path:\"9. Storytellers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7370239
+      }
+    },
+    {
+      "query": "file:TimeModel",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"1. Projects/Games\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776568
+      }
+    },
+    {
+      "query": "path:\"1. Projects/RPG Mesa\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8224125
+      }
+    },
+    {
+      "query": "path:\"1. Projects/Fanfiction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8585094
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.45049345123899637,
+  "close": true
+}
