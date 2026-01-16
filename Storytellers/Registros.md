@@ -40,11 +40,11 @@ status:
 	- [b] 📜 Anotações dos Avalis 
 		> Nos encontramos a essência de origem da criatura e descobrimos que espécie tinha linhas no corpo eram as vezes de mineiros no corpo todo, além da carne orgânica, porém todos que foram mortos apresentam mesmo estágio de serem afetos por esses mineiros de linhas no corpo 
 		> 
-		> ⟬Cobre ➣ Ondulações no corpo
-		> Prata ➣ Triângulo como escamas
-		> Ouro ➣ Espiral no corpo
-		> Diamante ➣ Raizes com furtos de cones espinhosos
-		> Sem minério ➣ Rachaduras
+		> ⟬Cobre ➣ Ondulações no corpo<br>
+		> Prata ➣ Triângulo como escamas<br>
+		> Ouro ➣ Espiral no corpo<br>
+		> Diamante ➣ Raizes com furtos de cones espinhosos<br>
+		> Sem minério ➣ Rachaduras<br>
 		> Obsidiana ➣ Rachaduras com círculos nos pontos de ligação⟭
 		> 
 		>

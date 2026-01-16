@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Storytellers/Scenes.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Scenes"
-            }
-          },
-          {
-            "id": "ca6676778f14c204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,15 +202,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca6676778f14c204",
+  "active": "50cc5739bc8956ac",
   "lastOpenFiles": [
-    "Storytellers/Scenes.md",
+    "Storytellers/Index.md",
     "Storytellers/Universo.md",
     "Storytellers/Registros.md",
-    "Storytellers/Planetas.md",
-    "Storytellers/Organizações.md",
     "Storytellers/Misticismo.md",
-    "Storytellers/Index.md",
+    "Storytellers/Planetas.md",
+    "README.md",
+    "Storytellers/Scenes.md",
+    "Storytellers/Organizações.md",
     "Storytellers/Glossário.md",
     "Storytellers/Eras.md",
     "Storytellers/Characters.md",
@@ -244,7 +230,6 @@
     "4. Archive/Github.md",
     "7. Writing/Systems/Raças.md",
     "7. Writing/Worldbuild/Ketsura.md",
-    "7. Writing/Untitled.md",
     "3. Resources/Divisões.jpg",
     "9. Storytellers/Untitled.base",
     "1. Projects/RPG Mesa/Mesa #2/Alfabeto/id_P.png",

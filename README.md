@@ -41,4 +41,5 @@ Novas atualizações e Mudanças nos arquivos
 + ➕Mudanças e Modificações
 + ➕Atualização de para minha lore nova
 + ➡️Logo será nomeada
-
++ 🔗URL
++ ➕Melhorias na quebra de linha
