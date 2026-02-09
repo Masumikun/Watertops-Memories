@@ -38,3 +38,6 @@ Novas atualizações e Mudanças nos arquivos
 + ➡️Logo será nomeada
 + 🔗URL
 + ➕Melhorias na quebra de linha
+
+Mudanças radicais
++ ⚠️ Tudo modo de verificação
